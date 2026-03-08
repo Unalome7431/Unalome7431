@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4bzFoODUxaXRodzViaTg4YWNjOW5icnBjMDI3b2szeG4yN2UycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SVdZvlJYzTdS/giphy.gif"  />
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4bzFoODUxaXRodzViaTg4YWNjOW5icnBjMDI3b2szeG4yN2UycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SVdZvlJYzTdS/giphy.gif"  />
 
 ###
 
@@ -75,6 +75,8 @@
 </picture>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Unalome7431.Unalome7431&left_color=blueviolet&right_color=cornflowerblue&left_text=GET%20/profile"  />
